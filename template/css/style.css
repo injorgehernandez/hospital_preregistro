@@ -1,0 +1,44 @@
+.sedes .img-fluid {
+    max-width: 100% !important;
+    height: auto;
+    height: 120px;
+    object-fit: cover;
+    background-color: black;
+}
+
+
+.logo-login{
+	max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.logo-main{
+	width: 70%;
+    margin-left: 30px;
+}
+
+
+
+td .btn-danger {
+    color: #dc3545;
+    background-color: white;
+    border-color: white;
+}
+
+
+
+/*.br-menu-link.active {
+
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+
+a {
+    color: #17a2b8;
+}*/
+
+
+
+
+
